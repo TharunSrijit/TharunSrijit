@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm tharun Srijit</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tharunsrijit&label=Profile%20views&color=0e75b6&style=flat" alt="tharunsrijit" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=tharunsrijit&label=Profile%20views&color=0e75b6&style=flat" alt="tharunsrijit" /> </p>
 
 
 # 💫 About Me:
@@ -23,7 +23,6 @@ Hello! I'm Tharun Srijit — a final-year Computer Science student, full-stack d
 ---
 [![](https://visitcount.itsvg.in/api?id=tharunsrijit&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunsrijit&show_icons=true&theme=dark&locale=en&layout=compact" alt="tharunsrijit" /></p>
 
