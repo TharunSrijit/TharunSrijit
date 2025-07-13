@@ -1,3 +1,4 @@
+![MasterHead]https://github.com/TharunSrijit/TharunSrijit/blob/main/assets/HeadText.png
 
 <h1 align="center">Hi 👋, I'm tharun Srijit</h1>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=tharunsrijit&label=Profile%20views&color=0e75b6&style=flat" alt="tharunsrijit" /> </p>
