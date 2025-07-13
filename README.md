@@ -61,15 +61,20 @@ Hello! I'm Tharun Srijit — a final-year Computer Science student, full-stack d
 ---
 
 ## 📊 GitHub Stats
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=TharunSrijit&theme=cobalt&show_icons=true&hide_border=true&count_private=true" alt="TharunSrijit's GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=TharunSrijit&theme=cobalt&hide_border=true" alt="TharunSrijit's GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tharunsrijit&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharunSrijit&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="TharunSrijit's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tharunsrijit&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tharunsrijit&theme=dark" alt="GitHub Streak" />
-</p>
+
