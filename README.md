@@ -42,11 +42,7 @@ Hello! I'm Tharun Srijit — a final-year Computer Science student, full-stack d
 
 ---
 
-## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=tharunsrijit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 [![](https://visitcount.itsvg.in/api?id=tharunsrijit&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -67,6 +63,11 @@ Hello! I'm Tharun Srijit — a final-year Computer Science student, full-stack d
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharunSrijit&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="TharunSrijit's GitHub Stats" />
 </p>
+
+---
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=tharunsrijit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
