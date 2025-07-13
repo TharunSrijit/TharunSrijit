@@ -38,15 +38,7 @@ Hello! I'm Tharun Srijit — a final-year Computer Science student, full-stack d
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
 </p>
 
----
 
-### 🌐 Connect with Me
-
-<p>
-  <a href="https://linkedin.com/in/tharunsrijit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/tharunsrijit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="mailto:tharunsrijit@gmail.com" target="_blank"><img src="https://github.com/TharunSrijit/TharunSrijit/blob/main/assets/gmail-svgrepo-com.svg" alt="Gmail" height="30" width="40" /></a>
-</p>
 
 ---
 
@@ -58,7 +50,7 @@ Hello! I'm Tharun Srijit — a final-year Computer Science student, full-stack d
 
 [![](https://visitcount.itsvg.in/api?id=tharunsrijit&icon=0&color=0)](https://visitcount.itsvg.in)
 
----
+
 
 ## 📊 GitHub Stats
 <table>
@@ -74,6 +66,16 @@ Hello! I'm Tharun Srijit — a final-year Computer Science student, full-stack d
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TharunSrijit&theme=cobalt&show_icons=true&hide_border=true&layout=compact" alt="TharunSrijit's GitHub Stats" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://linkedin.com/in/tharunsrijit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://instagram.com/tharunsrijit" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+  <a href="mailto:tharunsrijit@gmail.com" target="_blank"><img src="https://github.com/TharunSrijit/TharunSrijit/blob/main/assets/gmail-svgrepo-com.svg" alt="Gmail" height="30" width="40" /></a>
 </p>
 
 
