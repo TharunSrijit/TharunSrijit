@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TharunSrijit/TharunSrijit/main/assets/HeadText.png" width="100%" alt="Banner with Tharun Srijit">
-</p>
 
 
 <h1 align="center">Hi 👋, I'm tharun Srijit</h1>
