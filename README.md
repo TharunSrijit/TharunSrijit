@@ -6,8 +6,6 @@
 # 💫 About Me:
 Hello! I'm Tharun Srijit — a final-year Computer Science student, full-stack developer, and AI enthusiast passionate about building systems that make a real impact.<br><br>🛠️ Tech Stack: Python · Django · HTML/CSS · JavaScript · TypeScript · Next.js · Flutter · Dart · MySQL · Git<br>🎯 Interests: Coding · Problem Solving · UI/UX Design · Music · Anything sports-related<br>🎓 Education: Final-year Computer Engineering student, Marian Engineering College<br>💡 I enjoy creating tools that simplify complex problems and automate the boring stuff.<br>🔁 Motto: If it ain’t broken, optimize later.
 
-- 📫 How to reach me **tharunsrijit@gmail.com**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
