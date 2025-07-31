@@ -6,7 +6,6 @@
   <img src="https://komarev.com/ghpvc/?username=tharunsrijit&label=Profile%20views&color=0e75b6&style=flat" alt="tharunsrijit" />
 </p>
 
-
 ---
 
 # 💫 About Me
